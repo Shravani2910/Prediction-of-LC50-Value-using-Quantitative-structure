@@ -10,6 +10,8 @@ The construction of QSAR/QSPR model typically comprises of two main steps:
 (ii) multivariate analysis for correlating molecular descriptors with observed activities/properties. An essential preliminary step in model development is data understanding. Intermediate steps that are also crucial for successful development of such QSAR/QSPR models include data preprocessing and statistical evaluation.
 The goal here is to build an end-to-end automated Machine Learning model that predicts the LC50 value, the concentration of a compound that causes 50% lethality of fish in a test batch over a duration of 96 hours, using 6 given molecular descriptors.
 
+https://aihub.org/wp-content/uploads/2022/12/workflow.png
+
 Feature Description
 
 For this project, we already have the molecular descriptors obtained for us.
