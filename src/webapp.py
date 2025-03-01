@@ -22,7 +22,7 @@ class Webapp:
             initial_sidebar_state="expanded"
         )
         st.title('LC50(mol/L) Prediction Using Provided Molecular Descriptors')
-        st.caption('A project by Shivam Shinde')
+        st.caption('A project by Shravani Jagtap')
 
         st.subheader('Please provide the values for following molecular descriptors')
 
