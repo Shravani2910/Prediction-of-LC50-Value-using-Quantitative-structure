@@ -32,3 +32,8 @@ NdssC: atom-type counts
 NdsCH: atom-type counts
 
 SM1_Dz(Z): 2D matrix-based descriptors
+
+
+Deployed App:
+
+https://orange-eureka-76j59px4gjrhwrx7-8501.app.github.dev/
